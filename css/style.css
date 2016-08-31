@@ -51,6 +51,7 @@ body{
 	width: 110px;
 	padding: 2px;
 	border:1px #cccccc solid;
+	margin-right:20px;
 }
 .mini{
 	text-align: center;
@@ -84,7 +85,7 @@ body{
 	padding: 10px 0;
 }
 hr{
-	width:150px;
+	width:210px;
 	color:#cccccc;
 	margin-bottom:15px;
 }
@@ -127,4 +128,7 @@ hr{
 	font-size: 10px;
 	text-align: center;
 	padding: 20px;
+}
+.col-2{
+	width: 18%;
 }
